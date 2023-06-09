@@ -10,7 +10,7 @@
 ## Link to project test.
  https://lnkd.in/dvzZ-Xvn
 
-### Technologies used
+### Technologies used.
 + Css3
 + Html5
 + javaScript
