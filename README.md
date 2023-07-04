@@ -12,7 +12,7 @@
 
 ### Technologies used.
 + Css3.
-+ Html5
++ Html5.
 + javaScript
 
 # Start Dev Environment for VSCode
