@@ -11,7 +11,7 @@
  https://lnkd.in/dvzZ-Xvn
 
 ### Technologies used.
-+ Css3
++ Css3.
 + Html5
 + javaScript
 
